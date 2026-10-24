@@ -1,0 +1,4 @@
+# Defender Control (Python) - reimplementation
+# No third-party runtime dependencies required.
+# Development/testing only:
+#   pytest>=7
